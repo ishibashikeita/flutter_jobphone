@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "647500988143",
+    "project_id": "jobphone-20fb7",
+    "storage_bucket": "jobphone-20fb7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:647500988143:android:e16fbe547f585439a0251a",
+        "android_client_info": {
+          "package_name": "com.example.job_phone"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZ7xEsy72rW5Ahg5AU3NiZzt_pqy9ngXM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
